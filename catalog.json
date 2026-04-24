@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-24T00:13:49.700Z",
-  "mapCount": 713,
+  "generatedAt": "2026-04-24T00:33:08.727Z",
+  "mapCount": 714,
   "maps": [
     {
       "id": "100AnkhEgyptianParkour",
@@ -703,6 +703,24 @@
       "mapUrl": "https://drive.usercontent.google.com/download?id=1dECLyfQqLkmBE4EECsAMLTBow4ZkXfyH&export=download&confirm=t",
       "mapFile": "ArabianNights.upk",
       "mapSizeBytes": 581939297
+    },
+    {
+      "id": "AsymmetricalGoalsDomination",
+      "name": "AsymmetricalGoalsDomination",
+      "folderName": "AsymmetricalGoalsDomination",
+      "author": "Ecrase-Patate",
+      "description": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "version": "",
+      "source": "rocketleaguemaps.us",
+      "sourceUrl": "",
+      "jsonUrl": "https://drive.usercontent.google.com/download?id=1bjH4cbbK7NUgSfvLB6T8EYaXrT9GODH_&export=download&confirm=t",
+      "previewUrl": "https://drive.usercontent.google.com/download?id=1FBynQ7HKQ1TBAKflBIY4JlePTcMpp1bi&export=download&confirm=t",
+      "previewFile": "AsymmetricalGoalsDomination.jpg",
+      "mapUrl": "https://drive.usercontent.google.com/download?id=1qpeyjWafPjJ2j1ReT6n7UKuInmsg0qzL&export=download&confirm=t",
+      "mapFile": "AsymmetricalGoalsDomination.upk",
+      "mapSizeBytes": 100741704
     },
     {
       "id": "AustralianBumperballLeagueABL",
